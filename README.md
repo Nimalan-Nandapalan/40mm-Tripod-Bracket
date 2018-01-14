@@ -1,7 +1,7 @@
 # 40mm Tripod Bracket
 A Tripod bracket to mount things up to 40mm diameter
 
-<img src="https://raw.githubusercontent.com/Nimalan-Nandapalan/40mm-Tripod-Bracket/master/IMAG0109.jpg" style="width: 300px;" />
+<img src="https://raw.githubusercontent.com/Nimalan-Nandapalan/40mm-Tripod-Bracket/master/IMAG0109.jpg" width="300px;" />
 
 I designed this bracket to fit to a standard camera tripod and clamp almost anything up to 40mm round. It works reasonably well on irregular sized objects like the webcam in the picture. 
 
