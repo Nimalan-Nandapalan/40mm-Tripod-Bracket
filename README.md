@@ -3,6 +3,8 @@ A Tripod bracket for 3D printing to mount things up to 40mm diameter
 
 <img src="https://raw.githubusercontent.com/Nimalan-Nandapalan/40mm-Tripod-Bracket/master/IMAG0109.jpg" width="300px;" />
 
+## About
+
 I designed this bracket to fit to a standard camera tripod and clamp almost anything up to 40mm round. It works reasonably well on irregular sized objects like the webcam in the picture. 
 
 It uses standard M5 nuts and bolts, the nuts are hidden inside the ring. It should be fairly intuitive to assemble.
