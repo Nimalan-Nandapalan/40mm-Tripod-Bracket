@@ -1,5 +1,5 @@
 # 40mm Tripod Bracket
-A Tripod bracket to mount things up to 40mm diameter
+A Tripod bracket for 3D printing to mount things up to 40mm diameter
 
 <img src="https://raw.githubusercontent.com/Nimalan-Nandapalan/40mm-Tripod-Bracket/master/IMAG0109.jpg" width="300px;" />
 
